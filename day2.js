@@ -62,3 +62,4 @@ let m=70
 m=m*(9/5+32)
 console.log("fahrenheit" ,m)
 console.log("The "+celcius+" degree"+" is equal to "+fahrenheit)
+console.log("Aayusa")
