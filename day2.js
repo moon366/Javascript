@@ -59,7 +59,15 @@ console.log(l===k)
 
 // WAP to convert the degree celsius to degree fahrenheit  [celsius*(9/5)+32]
 let m=70
-m=m*(9/5+32)
+fahrenheit=m*(9/5+32)
 console.log("fahrenheit" ,m)
-console.log("The "+celcius+" degree"+" is equal to "+fahrenheit)
+console.log("The "+m+" degree"+" is equal to "+fahrenheit)
 console.log("Aayusa")
+//WAJSP  to calculate BMI using weight and height and display.
+//Hint;
+// BMI = weight / (height * height)
+
+const weight = 60;
+const height = 5.65;
+const bmi = weight / (height * height);
+console.log("BMI:" ,bmi);
